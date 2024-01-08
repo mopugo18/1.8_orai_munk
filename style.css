@@ -1,0 +1,74 @@
+header{
+    background-image:url(pilis_1/img/logo1.jpg);
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-size: 80px;
+}
+
+
+body{
+    background-color: #629D66;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+
+main{
+    background-color: white;
+
+
+}
+
+table{
+    font-size: 12px;
+    background-color: #96A96F;
+
+}
+
+h3{
+    color: white;
+    background-color: #203926;
+}
+
+#tartalom{
+    font-size: 12px;
+
+
+}
+
+
+
+#menupont1{
+
+}
+
+
+#menupont2{
+
+
+
+
+}
+
+
+
+#menupont3{
+
+
+
+
+
+
+
+}
+
+
+
+
+#cop{
+    text-align: center;
+    background-color: lightblue;
+}
+
+
